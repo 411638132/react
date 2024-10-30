@@ -1,0 +1,53 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-header h1 {
+    color: #333;
+    font-size: 2.5em;
+  }
+  
+  .profile-header h2 {
+    color: #666;
+    font-size: 1.5em;
+  }
+  
+  .profile-header h3 {
+    color: #777;
+    font-size: 1.2em;
+  }
+  
+  .skills-section, .contact-section, .experience-section {
+    margin-top: 20px;
+  }
+  
+  .skills-section ul, .contact-section ul, .experience-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-section li, .contact-section li, .experience-section li {
+    padding: 5px 0;
+    color: #444;
+  }
+  
+  .skills-section h4, .contact-section h4, .experience-section h4 {
+    font-size: 1.2em;
+    color: #222;
+    margin-bottom: 10px;
+  }
+  
+  .experience-section em {
+    color: #888;
+  }
+  
+  .contact-section strong {
+    color: #333;
+  }
+  
